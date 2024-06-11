@@ -6,4 +6,5 @@ Bước 5: Copy toàn bộ code phần dự báo lượng mưa vào một notebo
 Lưu ý: 
 - Phải kết nối với Google Drive trước sau đó tiến hành import các thư viện để sử dụng. 
 - Tốc độ xử lý sẽ tùy thuộc vào độ lớn của tập dữ liệu
-- Có thể điều chỉnh số lượng mạng noron để tăng tốc quá trình này (nhóm đang để epochs = 50) có thể chỉnh sửa thấp hơn. 
+- Có thể điều chỉnh số lượng mạng noron để tăng tốc quá trình này (nhóm đang để epochs = 50) có thể chỉnh sửa thấp hơn.
+  (link: https://colab.research.google.com/drive/1AKFNnR_TangodRZmtag6B7iwhLXko24T?usp=sharing)
